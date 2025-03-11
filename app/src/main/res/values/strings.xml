@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Limaonada</string>
+    <string name="limoeiro">Tape no limoeiro para colher limões</string>
+    <string name="limao">Continua tapando para fazer limonada</string>
+    <string name="limonada">Clique para beber limonada</string>
+    <string name="copo_vazio">Clique no copo para fazer de novo</string>
+    <string name="lemon_tree_content_description">Limoeiro</string>
+    <string name="lemon_content_description">Apertar limao para limonada</string>
+    <string name="copo_de_limonada">Copo de limonada</string>
+    <string name="Copo_vazio">Copo Vazio de limonada</string>
+</resources>
